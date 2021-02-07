@@ -16,7 +16,6 @@ function selecao(a, b, c, d){
     }else{
         return "Valores nao aceitos";
     }
-
 }
 
 console.log(selecao(a, b, c, d));
